@@ -97,7 +97,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kafkareceiver v0.102.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/opencensusreceiver v0.102.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver v0.102.0
-	github.com/parquet-go/parquet-go v0.23.1-0.20241011155651-6446d1d0d2fe
+	github.com/parquet-go/parquet-go v0.24.0
 	github.com/stoewer/parquet-cli v0.0.9
 	go.opentelemetry.io/collector/config/configgrpc v0.102.1
 	go.opentelemetry.io/collector/config/confighttp v0.102.1
